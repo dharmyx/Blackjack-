@@ -1,0 +1,14 @@
+/*
+Styles go in here!!!!!!
+*/
+.titleBox {
+    position: absolute;
+    background-color: maroon;
+    color: white;
+    margin: 70px;
+    border-radius: 10px;
+    border: solid black 5px;
+}
+h4, h1, p, button {
+    margin: 10px;
+}
